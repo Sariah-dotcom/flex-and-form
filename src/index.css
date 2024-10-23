@@ -11,3 +11,7 @@ h1, h2, h3{
 p {
     font-family: 'Inter', sans-serif;
 }
+
+#about, #staff, #app{
+    margin-bottom: 10rem;
+}

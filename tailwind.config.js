@@ -12,8 +12,10 @@ export default {
 
     colors:{
       'dark-pink': '#EB4E74',
+      'purple':'#AB062E',
       'light-pink': '#FFF8E3',
-      'white': '#fff'
+      'white': '#fff',
+      'black': '#000',
 
     },
     extend: {},
