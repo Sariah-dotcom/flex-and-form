@@ -4,7 +4,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 export default function Hero() {
   return (
-    <section id='hero' className='px-5 flex flex-col gap-5 h-screen justify-center items-center mb-[10rem]' >
+    <section id='hero' className='md:pt-56 px-5 flex flex-col gap-5 h-screen justify-center items-center mb-[15rem]' >
       <div className='md:w-3/5 flex flex-col gap-5'>
 
         <div className='flex gap-5'>
