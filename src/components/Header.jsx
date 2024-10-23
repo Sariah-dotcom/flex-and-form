@@ -8,8 +8,8 @@ export default function Header() {
             <h1 className='text-2xl'>flex n' form</h1>
         </div>
 
-        <div className='bg-light-pink p-3 rounded-[1rem]'>
-            <IoIosMenu className='text-dark-pink text-3xl' />  
+        <div className='bg-purple p-3 rounded-[1rem]'>
+            <IoIosMenu className='text-light-pink text-3xl' />  
         </div>
     </nav>
   )

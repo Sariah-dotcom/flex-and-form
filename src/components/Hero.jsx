@@ -11,8 +11,8 @@ export default function Hero() {
           
           <div className='w-full'>
             <Fade direction='left'>
-            <div className='bg-light-pink rounded-[2rem] w-[63%] flex items-center h-[15rem]'>
-              <h1 className='text-3xl px-5 text-dark-pink md:text-5xl'>Pilates <br /> Redefined.</h1>
+            <div className='bg-purple rounded-[2rem] w-[63%] flex items-center h-[15rem]'>
+              <h1 className='text-3xl px-5 text-light-pink md:text-5xl'>Pilates <br /> Redefined.</h1>
             </div>
             </Fade>
           </div>
@@ -37,7 +37,7 @@ export default function Hero() {
         </Fade>
 
         <button 
-          className='text-left font-plus font-bold text-dark-pink ml-5 
+          className='text-left font-plus font-bold text-purple ml-5 
           -mt-12 flex items-center gap-2 lg:text-2xl lg:-mt-20 pt-3 lg:gap-4'
           >
           Get Started 
